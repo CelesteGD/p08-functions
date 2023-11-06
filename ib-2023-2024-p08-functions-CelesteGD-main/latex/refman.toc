@@ -1,0 +1,10 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\contentsline {chapter}{\numberline {1}Práctica 08. Funciones. GH Classroom. Doxygen.}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Factor de ponderación\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}: 7}{1}{section.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.0.1}Objetivos}{1}{subsubsection.1.1.0.1}%
+\contentsline {subsubsection}{\numberline {1.1.0.2}Rúbrica de evaluacion de esta práctica}{1}{subsubsection.1.1.0.2}%
+\contentsline {subsubsection}{\numberline {1.1.0.3}Git\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Hub Classroom}{2}{subsubsection.1.1.0.3}%
+\contentsline {subsubsection}{\numberline {1.1.0.4}Doxygen}{3}{subsubsection.1.1.0.4}%
+\contentsline {subsubsection}{\numberline {1.1.0.5}Material de estudio complementario}{5}{subsubsection.1.1.0.5}%
+\contentsline {subsubsection}{\numberline {1.1.0.6}Ejercicios}{5}{subsubsection.1.1.0.6}%
+\contentsline {chapter}{\numberline {2}R\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}E\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}A\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}D\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ME}{7}{chapter.2}%
